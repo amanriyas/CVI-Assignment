@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.claude/
+# coursework brief and submitted report are not published
+Assignment_*.pdf
+output/CVI_Report_*.pdf
